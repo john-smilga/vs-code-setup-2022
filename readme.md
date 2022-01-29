@@ -3,4 +3,3 @@
 ## EXTENSIONS
 
 - ![Extensions](./ext-1.png)
-- ![Extensions](./ext-2.png)

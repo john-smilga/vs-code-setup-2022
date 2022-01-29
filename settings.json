@@ -11,7 +11,7 @@
   "emmet.triggerExpansionOnTab": true,
   "editor.minimap.enabled": false,
   "prettier.jsxSingleQuote": true,
-  "prettier.semi": false,
+  "prettier.semi": true,
   "prettier.singleQuote": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "editor.formatOnPaste": true,
@@ -45,6 +45,7 @@
   "git.enableSmartCommit": true,
   "markdown.preview.fontSize": 16,
   "editor.guides.bracketPairs": true,
-  "bracket-pair-colorizer-2.depreciation-notice": false,
-  "window.zoomLevel": 2
+  "window.zoomLevel": 2,
+  "workbench.iconTheme": "vscode-icons",
+  "vsicons.presets.foldersAllDefaultIcon": true
 }
